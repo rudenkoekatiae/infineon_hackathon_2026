@@ -7,8 +7,6 @@
 
 *A four-wheel robot that explores an unfamiliar maze using ultrasonic sensing, gyro-guided turns, and adaptive wall following.*
 
-**🥈 2nd place in the hackathon car race**
-
 </div>
 
 ---
